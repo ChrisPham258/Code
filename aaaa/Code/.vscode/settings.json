@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "iostream": "cpp",
+        "random": "cpp",
+        "unordered_map": "cpp",
+        "cstdlib": "cpp"
+    }
+}
